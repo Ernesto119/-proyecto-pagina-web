@@ -1,7 +1,16 @@
 h1 {
+  font-size: 50px;
   color:purple;
 }
 
+p,
+ul,
+ol {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
 h3{
-  color: blueviolet;
+  font-size: 20px;
+  color: purple;
 }
